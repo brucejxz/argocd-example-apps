@@ -1,2 +1,3 @@
 service:
   type: ClusterIP
+a_key: a_value
